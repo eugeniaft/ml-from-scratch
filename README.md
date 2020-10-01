@@ -1,3 +1,3 @@
 # ml-from-scratch
 
-Repository of ML algorithms implementations
+Implementations of Machine Learning models and algorithms from scratch.
